@@ -26,6 +26,7 @@
 |---|---|---|
 | **K S Yuga** | [@yuga-i2](https://github.com/yuga-i2) | Co-builder — Frontend, AWS Infrastructure, Voice Memory Network |
 | **Anandhu P** | [@Anandhu-p-tec](https://github.com/Anandhu-p-tec) | Co-builder — AI Backend, Bedrock Integration, Agentic Pipeline |
+| **Keerthi M** | [@keerthiii-03](https://github.com/keerthiii-03) |
 
 *2nd Year B.Tech AI & Data Science — Built for AI for Bharat Hackathon 2026*
 
