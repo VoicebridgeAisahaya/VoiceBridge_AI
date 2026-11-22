@@ -12,23 +12,6 @@
 
 **🔗 Live Demo:** https://master.dk0lrulrclio3.amplifyapp.com
 **💊 API Health Check:** https://bkzd32abpg.execute-api.ap-southeast-1.amazonaws.com/dev/api/health
-**🎥 Demo Video:** https://youtu.be/bhXY-YPOncQ
-
-</div>
-
----
-
-## 👥 Built By
-
-<div align="center">
-
-| Builder | GitHub | Role |
-|---|---|---|
-| **K S Yuga** | [@yuga-i2](https://github.com/yuga-i2) | Co-builder — Frontend, AWS Infrastructure, Voice Memory Network |
-| **Anandhu P** | [@Anandhu-p-tec](https://github.com/Anandhu-p-tec) | Co-builder — AI Backend, Bedrock Integration, Agentic Pipeline |
-| **Keerthi M** | [@keerthiii-03](https://github.com/keerthiii-03) |
-
-*2nd Year B.Tech AI & Data Science — Built for AI for Bharat Hackathon 2026*
 
 </div>
 
